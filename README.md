@@ -1,4 +1,4 @@
-# taskify
+# Taskify
 
 Ride the wave of productivity
 
